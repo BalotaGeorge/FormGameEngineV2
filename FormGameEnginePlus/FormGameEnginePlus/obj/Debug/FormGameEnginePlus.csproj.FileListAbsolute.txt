@@ -1,0 +1,8 @@
+C:\AnyThingElse\PB VS C#\FormGameEnginePlus\FormGameEnginePlus\bin\Debug\FormGameEnginePlus.exe.config
+C:\AnyThingElse\PB VS C#\FormGameEnginePlus\FormGameEnginePlus\bin\Debug\FormGameEnginePlus.exe
+C:\AnyThingElse\PB VS C#\FormGameEnginePlus\FormGameEnginePlus\bin\Debug\FormGameEnginePlus.pdb
+C:\AnyThingElse\PB VS C#\FormGameEnginePlus\FormGameEnginePlus\obj\Debug\FormGameEnginePlus.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\FormGameEnginePlus\FormGameEnginePlus\obj\Debug\FormGameEnginePlus.exe
+C:\AnyThingElse\PB VS C#\FormGameEnginePlus\FormGameEnginePlus\obj\Debug\FormGameEnginePlus.pdb
+C:\AnyThingElse\PB VS C#\FormGameEnginePlus\FormGameEnginePlus\obj\Debug\Window.resources
+C:\AnyThingElse\PB VS C#\FormGameEnginePlus\FormGameEnginePlus\obj\Debug\FormGameEnginePlus.csproj.GenerateResource.cache
